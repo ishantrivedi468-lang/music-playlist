@@ -167,3 +167,7 @@ Favorites
 ```
 
 When the program starts, the saved information is loaded from the JSON file.
+
+When the user exits the program, the latest information is saved back to the file.
+
+This allows the application data to remain available between different program sessions.
