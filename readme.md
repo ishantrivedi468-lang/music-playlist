@@ -57,35 +57,28 @@ MusicPlaylistManager/
 
 
 
+## How to Use
 
+### 1. Run the Program
 
+Run the `main.py` file to start the Music Playlist Manager.
 
+The main menu will be displayed on the screen.
 
+---
 
-
-
-
-
-
-
-
-
-
-
-### How to Use
-
-### 3. Add a Song
+### 2. Add a Song
 
 Select the **Add Song** option from the main menu.
 
-Enter the required song details when prompted. The song will be added to the song collection.
+Enter the required song details when prompted. The song will then be added to the song collection.
 
 **Screenshot:**
 *Add screenshot of adding a song here.*
 
 ---
 
-### 4. View All Songs
+### 3. View All Songs
 
 Select **View All Songs** to display all songs currently stored in the application.
 
@@ -94,7 +87,7 @@ Select **View All Songs** to display all songs currently stored in the applicati
 
 ---
 
-### 5. Search for a Song
+### 4. Search for a Song
 
 Select **Search Song** and enter the song name or required search information.
 
@@ -105,7 +98,7 @@ The program will display the matching song if it is available.
 
 ---
 
-### 6. Create a Playlist
+### 5. Create a Playlist
 
 Select **Create Playlist** and enter a name for the new playlist.
 
@@ -116,7 +109,7 @@ The playlist will be created and can be managed from the playlist options.
 
 ---
 
-### 7. Add Songs to a Playlist
+### 6. Add Songs to a Playlist
 
 Select **Add Song to Playlist**.
 
@@ -127,7 +120,7 @@ Choose the required playlist and song. The selected song will be added to the pl
 
 ---
 
-### 8. View Playlists
+### 7. View Playlists
 
 Select **View Playlists** to see the playlists created by the user along with their songs.
 
@@ -136,7 +129,7 @@ Select **View Playlists** to see the playlists created by the user along with th
 
 ---
 
-### 9. Shuffle a Playlist
+### 8. Shuffle a Playlist
 
 Select **Shuffle Playlist** and choose the playlist you want to shuffle.
 
@@ -147,7 +140,7 @@ The songs in the selected playlist will be arranged in a shuffled order.
 
 ---
 
-### 10. Manage Favorite Songs
+### 9. Manage Favorite Songs
 
 The **Favorites** option allows users to:
 
@@ -160,7 +153,7 @@ The **Favorites** option allows users to:
 
 ---
 
-### 11. Remove Songs or Playlists
+### 10. Remove Songs or Playlists
 
 The application also provides options to remove songs from the main collection and delete playlists that are no longer required.
 
@@ -169,7 +162,7 @@ The application also provides options to remove songs from the main collection a
 
 ---
 
-### 12. Data Storage
+### 11. Data Storage
 
 The project uses `data.json` to store application data.
 
@@ -178,48 +171,17 @@ This allows songs, playlists, and favorite information to remain available even 
 **Screenshot:**
 *Add screenshot of `data.json` here.*
 
----
 
-## Example Main Menu
 
-```text
-================================
-      MUSIC PLAYLIST MANAGER
-================================
 
-1. Add Song
-2. Remove Song
-3. View All Songs
-4. Search Song
-5. Create Playlist
-6. Add Song to Playlist
-7. View Playlists
-8. Shuffle Playlist
-9. Favorites
-10. Exit
 
-Enter your choice:
-```
 
----
 
-## Basic Usage Flow
 
-```text
-Run main.py
-     ↓
-Main Menu
-     ↓
-Choose an Option
-     ↓
-Manage Songs / Playlists / Favorites
-     ↓
-Data Saved to data.json
-     ↓
-Continue Using the Program
-     ↓
-Exit
-```
+
+
+
+
 
 
 
