@@ -54,3 +54,13 @@ MusicPlaylistManager/
 ├── storage.py
 ├── data.json
 └── README.md
+
+
+## HOW TO USE IT
+
+STEP-1:
+
+
+<img width="1427" height="772" alt="image" src="https://github.com/user-attachments/assets/669dfc7b-482b-4a9c-8a8c-d5495e0eb5d8" />
+
+
