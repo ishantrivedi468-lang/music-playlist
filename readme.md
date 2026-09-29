@@ -57,22 +57,22 @@ MusicPlaylistManager/
 
 
 
-## How to Use
 
-### 2. Run the Program
 
-Open the terminal inside the project folder and run:
 
-```bash
-python main.py
-```
 
-The main menu will appear in the terminal.
 
-**Screenshot:**
-*Add screenshot of the main menu here.*
 
----
+
+
+
+
+
+
+
+
+
+### How to Use
 
 ### 3. Add a Song
 
